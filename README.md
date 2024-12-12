@@ -44,8 +44,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Dit is de lyircs pagina van Hyatus Kayote, deze heb ik eigenlijk niet meer gedaan qua text, maar wat betreft opmaak is deze pagina precies het zelfde als de gene waar ik nu voor heb gekozen.
+  <img src="![alt text](<readme-images/lyrics first.png>)" width="375px" alt="omschrijving van de pagina">
+  <img src="![alt text](<readme-images/lyrics 2.png>)" width="375px" alt="omschrijving van de pagina">
+  <img src="![alt text](<readme-images/lyrics 3.png>)" width="375px" alt="omschrijving van de pagina">
+  <img src="![alt text](<readme-images/lyrics 4.png>)" width="375px" alt="omschrijving van de pagina">
+  <img src="![alt text](<readme-images/lyrics 5.png>)" width="375px" alt="omschrijving van de pagina">
+  <img src="![alt text](<readme-images/lyrics last.png>)" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -54,11 +59,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>Uit mijn toegangkelijkheidstest is gebleken dat de website van Genius over het algemeen gesproken niet al te verkeerd voor een website is, (vul verder aan)<sup>e</sup> werkgroep 2</summary>
+  <summary>Uit mijn toegangkelijkheidstest is gebleken dat de website van Genius over het algemeen gesproken niet al te verkeerd voor een website is, hij ziet er netjes uit, met vrij duidelijke articles.<sup>e</sup> werkgroep 2</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  Op het gebied van de reader was de website niet goed geoptimaiseerd, zo had de website zelf geen taalkeuze en nam hij de default taal van je systeem over als je de reader daar wou gebruiken, dus dat klonk super raar.
 </details>
 
 
@@ -145,7 +150,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
+  - Dat ik echt een beginnetje moet maken aan me CSS
   - punt 2
   - nog een punt
 - ...
@@ -192,8 +197,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
+  - misschien dat ik de list items die ik heb kan verwerken in een grid zodat het er beter uit komt te zien
+  - Het alfabet onderaan gewoon een big clickable thing maken
   - nog een punt
   - ...
 
